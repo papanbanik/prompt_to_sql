@@ -63,3 +63,5 @@ streamlit run app.py
 After running the project, open:
 
 http://localhost:8501
+
+**Live : https://promttosql.streamlit.app/
